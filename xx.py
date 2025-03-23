@@ -116,3 +116,13 @@ create_app4_gui(frame4)
 
 # Run the application
 root.mainloop()
+
+# these are for test
+root.grid_rowconfigure(0, weight=1)
+root.grid_rowconfigure(1, weight=1)
+root.grid_columnconfigure(0, weight=1)
+root.grid_columnconfigure(1, weight=1)
+
+# this for branch 3
+root.grid_columnconfigure(0, weight=1)
+root.grid_columnconfigure(1, weight=1)
