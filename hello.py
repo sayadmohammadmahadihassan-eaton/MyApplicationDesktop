@@ -142,7 +142,7 @@ exe_app_links = myLibrary.read_links()
 app_list_top = [prepare_eep_file_tool, com_files_with_given_keys_tool]
 exe_app_links.extend(app_list_top)
 
-app_list_top_name = ['Panda XCP', 'Pletc', 'Panda VAR Logger', 'Teraterm', 'Eflash', 'ELL', 'MX', 'MX Sequencer', 'Create EEP File', 'Compare EEP', 'HMI','HMI']
+app_list_top_name = ['Panda XCP', 'Pletc', 'Panda VAR Logger', 'Teraterm', 'Eflash', 'ELL', 'MX', 'MX Sequencer', 'HMI', 'HMI', 'Create EEP File', 'Compare EEP']
 app_list_bottom = ['notepad', 'calc', 'ms-clock:', 'cmd', 'onenote', 'excel']
 app_list_bottom_name = ['Notepad', 'Calculator', 'Clock', 'Command Prompt', 'OneNote', 'Excel']
 

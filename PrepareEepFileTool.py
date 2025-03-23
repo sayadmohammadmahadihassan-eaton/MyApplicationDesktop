@@ -45,3 +45,5 @@ class PrepareEepFileTool:
                 result.insert(tk.END, f'{_integer_1[i]} : {_integer_2[i]}\n')
         else:
             print('Number of integers are not equal.')
+
+    
